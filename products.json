@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Ultra HD TV",
+        "price": 499.99,
+        "image": "applications-7025904.jpg",
+        "description": "Experience stunning picture quality with our Ultra HD TV."
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 899.99,
+        "image": "apple-1867461.jpg",
+        "description": "Stay connected with the latest smartphone technology."
+    },
+    {
+        "id": 3,
+        "name": "Wireless Headphones",
+        "price": 129.99,
+        "image": "headphone-2118725.jpg",
+        "description": "Enjoy high-quality sound without the hassle of wires."
+    },
+    {
+        "id": 4,
+        "name": "Laptop",
+        "price": 999.99,
+        "image": "macbook-459196.jpg",
+        "description": "Powerful performance for all your computing needs."
+    },
+    {
+        "id": 5,
+        "name": "Smartwatch",
+        "price": 199.99,
+        "image": "clock-756487_1920.jpg",
+        "description": "Track your fitness and stay connected on the go."
+    },
+    {
+        "id": 6,
+        "name": "Bluetooth Speaker",
+        "price": 79.99,
+        "image": "bose-5476087.jpg",
+        "description": "Compact speaker with powerful sound."
+    },
+    {
+        "id": 7,
+        "name": "Gaming Console",
+        "price": 399.99,
+        "image": "https://via.placeholder.com/300/FFD633/FFFFFF?text=Console",
+        "description": "Immerse yourself in the world of gaming."
+    },
+    {
+        "id": 8,
+        "name": "4K Monitor",
+        "price": 299.99,
+        "image": "applications-7025904.jpg",
+        "description": "High-resolution display for exceptional visuals."
+    },
+    {
+        "id": 9,
+        "name": "Action Camera",
+        "price": 249.99,
+        "image": "camera-4914690.jpg",
+        "description": "Capture every adventure with stunning clarity."
+    },
+    {
+        "id": 10,
+        "name": "Smart Home Assistant",
+        "price": 149.99,
+        "image": "google-assistant-5615055.jpg",
+        "description": "Control your smart home with voice commands."
+    },
+    {
+        "id": 11,
+        "name": "VR Headset",
+        "price": 499.99,
+        "image": "xr-7499160.jpg",
+        "description": "Step into a new reality with our VR headset."
+    },
+    {
+        "id": 12,
+        "name": "Tablet",
+        "price": 349.99,
+        "image": "ipad-605420.jpg",
+        "description": "Perfect for browsing, streaming, and more."
+    },
+    {
+        "id": 13,
+        "name": "Fitness Tracker",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/300/FF8C33/FFFFFF?text=Tracker",
+        "description": "Stay fit with our advanced fitness tracker."
+    },
+    {
+        "id": 14,
+        "name": "Wireless Charger",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/300/FF33A6/FFFFFF?text=Charger",
+        "description": "Convenient charging for all your devices."
+    },
+    {
+        "id": 15,
+        "name": "Portable SSD",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/300/FF5733/FFFFFF?text=SSD",
+        "description": "Fast and reliable storage for your data."
+    },
+    {
+        "id": 16,
+        "name": "Noise Cancelling Headphones",
+        "price": 299.99,
+        "image": "https://via.placeholder.com/300/FF33D1/FFFFFF?text=Noise+Cancelling",
+        "description": "Immerse yourself in sound with noise cancellation."
+    }
+]
